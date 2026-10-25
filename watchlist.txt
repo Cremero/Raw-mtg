@@ -1,0 +1,7 @@
+# Comandantes que los flujos de n8n refrescan cada semana (EDHREC y combos). Uno por línea, nombre en inglés.
+# Partners: sepáralos con " + ".  Las líneas con # se ignoran.
+Fire Lord Zuko
+Toph, the First Metalbender
+Ashling, the Limitless
+Betor, Kin to All
+Sauron, the Dark Lord

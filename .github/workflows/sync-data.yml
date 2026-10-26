@@ -1,0 +1,40 @@
+name: Sincronizar datos (Scryfall, MTGJSON)
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Piezas a sincronizar (cache,lists,rulings,precons). Útil si una falla."
+        default: "cache,lists,rulings,precons"
+permissions:
+  contents: write
+concurrency:
+  group: sync-data
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sincronizar
+        run: python tools/sync_data.py --out . --dist dist --only "${{ github.event.inputs.only || 'cache,lists,rulings,precons' }}"
+      - name: Validar antes de publicar
+        run: python tools/validate_repo.py --root .
+      - name: Commit de los archivos versionados
+        run: |
+          git config user.name "mtg-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add data precons manifest.json
+          git diff --cached --quiet || git commit -m "datos: sync semanal $(date -u +%F)"
+          git push
+      - name: Publicar assets (release data-latest)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view data-latest >/dev/null 2>&1 || gh release create data-latest --title "Datos (último sync)" --notes "Assets regenerados cada semana por la Action. No editar."
+          gh release upload data-latest dist/* --clobber

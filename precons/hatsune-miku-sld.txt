@@ -1,0 +1,94 @@
+# Stock del precon Hatsune Miku (SLD, 2026-08-10). Fuente: MTGJSON, bajado el 2026-10-26.
+# Generado automáticamente: contrástalo con tu caja antes de fiarte de una carta concreta.
+
+Commander
+1 Trostani, Selesnya's Voice
+
+Deck
+1 Archangel of Thune
+1 Halo Fountain
+1 Grand Crescendo
+1 Shalai, Voice of Plenty
+1 Song of the Worldsoul
+1 Soul Warden
+1 Break Down
+1 Cultivate
+1 Finale of Devastation
+1 Vorinclex, Voice of Hunger
+1 Bountiful Promenade
+1 Angel of Indemnity
+1 Angelic Chorus
+1 Boon Reflection
+1 Crested Sunmare
+1 Dazzling Theater // Prop Room
+1 Elenda's Hierophant
+1 Excavation Technique
+1 Hour of Reckoning
+1 Nykthos Paragon
+1 Resplendent Angel
+1 Silverquill Lecturer
+1 Soul of Eternity
+1 Speaker of the Heavens
+1 Storm Herd
+1 Voice of the Blessed
+1 Ancient Cornucopia
+1 Arasta of the Endless Web
+1 Blossoming Bogbeast
+1 Bramble Sovereign
+1 Fanatic of Rhonas
+1 Gruff Triplets
+1 Healing Technique
+1 Pest Infestation
+1 Shamanic Revelation
+1 Camaraderie
+1 Conclave Evangelist
+1 Ghalta and Mavren
+1 Growing Ranks
+1 Lathiel, the Bounteous Dawn
+1 Mirari's Wake
+1 Rhys the Redeemed
+1 Voice of Resurgence
+1 Aetherflux Reservoir
+1 Phyrexian Processor
+1 Canopy Vista
+1 Gavony Township
+1 Grove of the Guardian
+1 Lazotep Quarry
+1 Overgrown Farmland
+1 Restless Prairie
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple of Plenty
+1 Invincible Hymn
+1 Ajani's Pridemate
+1 Cleric Class
+1 Congregate
+1 Path to Exile
+1 Rootborn Defenses
+1 Suture Priest
+1 Swords to Plowshares
+1 Avacyn's Pilgrim
+1 Explore
+1 Farseek
+1 Llanowar Elves
+1 Nature's Lore
+1 Prosperous Innkeeper
+1 Song of Freyalise
+1 Sundering Growth
+1 Idol of Oblivion
+1 Selesnya Signet
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Blossoming Sands
+1 Brokers Hideout
+1 Command Tower
+1 Graypelt Refuge
+1 Krosan Verge
+1 Radiant Fountain
+1 Rogue's Passage
+1 Sapseep Forest
+1 Selesnya Sanctuary
+1 Seraph Sanctuary
+7 Plains
+7 Forest

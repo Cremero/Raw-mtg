@@ -1,0 +1,322 @@
+{
+ "abzan-armor-tdc": {
+  "name": "Abzan Armor",
+  "code": "TDC",
+  "released": "2025-04-11",
+  "commanders": [
+   "Felothar the Steadfast"
+  ]
+ },
+ "avengers-assemble-collector-s-edition-msc": {
+  "name": "Avengers Assemble Collector's Edition",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Captain America, Team Leader"
+  ]
+ },
+ "avengers-assemble-msc": {
+  "name": "Avengers Assemble",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Captain America, Team Leader"
+  ]
+ },
+ "blight-curse-ecc": {
+  "name": "Blight Curse",
+  "code": "ECC",
+  "released": "2026-01-23",
+  "commanders": [
+   "Auntie Ool, Cursewretch"
+  ]
+ },
+ "calling-all-angels-fdc": {
+  "name": "Calling All Angels",
+  "code": "FDC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Giada, Font of Hope"
+  ]
+ },
+ "counter-blitz-collector-s-edition-final-fantasy-x-fic": {
+  "name": "Counter Blitz Collector's Edition (FINAL FANTASY X)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Tidus, Yuna's Guardian"
+  ]
+ },
+ "counter-blitz-final-fantasy-x-fic": {
+  "name": "Counter Blitz (FINAL FANTASY X)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Tidus, Yuna's Guardian"
+  ]
+ },
+ "counter-intelligence-eoc": {
+  "name": "Counter Intelligence",
+  "code": "EOC",
+  "released": "2025-08-01",
+  "commanders": [
+   "Inspirit, Flagship Vessel"
+  ]
+ },
+ "dance-of-the-elements-ecc": {
+  "name": "Dance of the Elements",
+  "code": "ECC",
+  "released": "2026-01-23",
+  "commanders": [
+   "Ashling, the Limitless"
+  ]
+ },
+ "doom-prevails-collector-s-edition-msc": {
+  "name": "Doom Prevails Collector's Edition",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Doctor Doom, King of Latveria"
+  ]
+ },
+ "doom-prevails-msc": {
+  "name": "Doom Prevails",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Doctor Doom, King of Latveria"
+  ]
+ },
+ "everyone-s-invited-sld": {
+  "name": "Everyone's Invited!",
+  "code": "SLD",
+  "released": "2025-05-12",
+  "commanders": [
+   "Morophon, the Boundless"
+  ]
+ },
+ "goblin-storm-sld": {
+  "name": "Goblin Storm",
+  "code": "SLD",
+  "released": "2026-05-18",
+  "commanders": [
+   "Zada, Hedron Grinder"
+  ]
+ },
+ "hatsune-miku-sld": {
+  "name": "Hatsune Miku",
+  "code": "SLD",
+  "released": "2026-08-10",
+  "commanders": [
+   "Trostani, Selesnya's Voice"
+  ]
+ },
+ "jeskai-striker-tdc": {
+  "name": "Jeskai Striker",
+  "code": "TDC",
+  "released": "2025-04-11",
+  "commanders": [
+   "Shiko and Narset, Unified"
+  ]
+ },
+ "keen-engineering-fdc": {
+  "name": "Keen Engineering",
+  "code": "FDC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Sai, Master Thopterist"
+  ]
+ },
+ "limit-break-collector-s-edition-final-fantasy-vii-fic": {
+  "name": "Limit Break Collector's Edition (FINAL FANTASY VII)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Cloud, Ex-SOLDIER"
+  ]
+ },
+ "limit-break-final-fantasy-vii-fic": {
+  "name": "Limit Break (FINAL FANTASY VII)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Cloud, Ex-SOLDIER"
+  ]
+ },
+ "lorehold-spirit-soc": {
+  "name": "Lorehold Spirit",
+  "code": "SOC",
+  "released": "2026-04-24",
+  "commanders": [
+   "Quintorius, History Chaser"
+  ]
+ },
+ "mardu-surge-tdc": {
+  "name": "Mardu Surge",
+  "code": "TDC",
+  "released": "2025-04-11",
+  "commanders": [
+   "Zurgo Stormrender"
+  ]
+ },
+ "multiverse-reforged-frc": {
+  "name": "Multiverse Reforged",
+  "code": "FRC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Jace, Multiverse Architect"
+  ]
+ },
+ "odds-and-ends-sld": {
+  "name": "Odds and Ends",
+  "code": "SLD",
+  "released": "2026-09-28",
+  "commanders": [
+   "Yennett, Cryptic Sovereign"
+  ]
+ },
+ "prismari-artistry-soc": {
+  "name": "Prismari Artistry",
+  "code": "SOC",
+  "released": "2026-04-24",
+  "commanders": [
+   "Rootha, Mastering the Moment"
+  ]
+ },
+ "quandrix-unlimited-soc": {
+  "name": "Quandrix Unlimited",
+  "code": "SOC",
+  "released": "2026-04-24",
+  "commanders": [
+   "Zimone, Infinite Analyst"
+  ]
+ },
+ "reign-of-dragons-fdc": {
+  "name": "Reign of Dragons",
+  "code": "FDC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Lathliss, Dragon Queen"
+  ]
+ },
+ "revival-trance-collector-s-edition-final-fantasy-vi-fic": {
+  "name": "Revival Trance Collector's Edition (FINAL FANTASY VI)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Terra, Herald of Hope"
+  ]
+ },
+ "revival-trance-final-fantasy-vi-fic": {
+  "name": "Revival Trance (FINAL FANTASY VI)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Terra, Herald of Hope"
+  ]
+ },
+ "scions-spellcraft-collector-s-edition-final-fantasy-xiv-fic": {
+  "name": "Scions & Spellcraft Collector's Edition (FINAL FANTASY XIV)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Y'shtola, Night's Blessed"
+  ]
+ },
+ "scions-spellcraft-final-fantasy-xiv-fic": {
+  "name": "Scions & Spellcraft (FINAL FANTASY XIV)",
+  "code": "FIC",
+  "released": "2025-06-13",
+  "commanders": [
+   "Y'shtola, Night's Blessed"
+  ]
+ },
+ "silverquill-influence-soc": {
+  "name": "Silverquill Influence",
+  "code": "SOC",
+  "released": "2026-04-24",
+  "commanders": [
+   "Killian, Decisive Mentor"
+  ]
+ },
+ "sultai-arisen-tdc": {
+  "name": "Sultai Arisen",
+  "code": "TDC",
+  "released": "2025-04-11",
+  "commanders": [
+   "Teval, the Balanced Scale"
+  ]
+ },
+ "the-fantastic-four-collector-s-edition-msc": {
+  "name": "The Fantastic Four Collector's Edition",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Invisible Woman"
+  ]
+ },
+ "the-fantastic-four-msc": {
+  "name": "The Fantastic Four",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "Invisible Woman"
+  ]
+ },
+ "tramplesaurus-rex-fdc": {
+  "name": "Tramplesaurus Rex",
+  "code": "FDC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Ghalta, Primal Hunger"
+  ]
+ },
+ "turtle-power-tmc": {
+  "name": "Turtle Power!",
+  "code": "TMC",
+  "released": "2026-03-06",
+  "commanders": [
+   "Heroes in a Half Shell"
+  ]
+ },
+ "wakanda-forever-collector-s-edition-msc": {
+  "name": "Wakanda Forever Collector's Edition",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "T'Challa, the Black Panther"
+  ]
+ },
+ "wakanda-forever-msc": {
+  "name": "Wakanda Forever",
+  "code": "MSC",
+  "released": "2026-06-26",
+  "commanders": [
+   "T'Challa, the Black Panther"
+  ]
+ },
+ "witherbloom-pestilence-soc": {
+  "name": "Witherbloom Pestilence",
+  "code": "SOC",
+  "released": "2026-04-24",
+  "commanders": [
+   "Dina, Essence Brewer"
+  ]
+ },
+ "world-shaper-eoc": {
+  "name": "World Shaper",
+  "code": "EOC",
+  "released": "2025-08-01",
+  "commanders": [
+   "Hearthhull, the Worldseed"
+  ]
+ },
+ "wretched-ranks-fdc": {
+  "name": "Wretched Ranks",
+  "code": "FDC",
+  "released": "2026-10-02",
+  "commanders": [
+   "Ghoulcaller Gisa"
+  ]
+ }
+}

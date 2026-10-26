@@ -1,0 +1,86 @@
+# Stock del precon Wakanda Forever Collector's Edition (MSC, 2026-06-26). Fuente: MTGJSON, bajado el 2026-10-26.
+# Generado automáticamente: contrástalo con tu caja antes de fiarte de una carta concreta.
+
+Commander
+1 T'Challa, the Black Panther
+
+Deck
+1 Dora Milaje Elite
+1 Everett K. Ross, Hapless Attaché
+1 Hatut Zeraze Strike Force
+1 King Solomon's Frogs
+1 Midnight Angel Armor
+1 Queen Mother Ramonda
+1 Royal Talon Fighter Jet
+1 The Spear of Bashenga
+1 Ancestral Communion
+1 Fight for the Throne
+1 M'Baku, Jabari Chieftain
+1 Nakia, Wakandan Operative
+1 W'Kabi, Shield of the Nation
+1 Wakanda Forever!
+1 Zuri, Warrior of Wakanda
+1 Bast, Panther Goddess
+1 Okoye, Mighty and Adored
+1 Shuri, the Black Panther
+1 Storm, Queen of Wakanda
+1 T'Chaka, Venerable King
+1 Heart-Shaped Herb
+1 Kimoyo Beads
+1 N'Yami-Class Mother Ship
+1 Panther Habit
+1 Panther Robot
+1 Shuri's Fabricator
+1 Vibranium Mining Mech
+1 Vibranium Strike Gauntlets
+1 The Great Mound
+1 Divine Visitation
+1 Loyal Retainers
+1 Martial Coup
+1 Vanquish the Horde
+1 Birds of Paradise
+1 Conduit of Worlds
+1 Greater Good
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Coveted Jewel
+1 Gilded Lotus
+1 Helm of the Host
+1 Metalwork Colossus
+1 Solemn Simulacrum
+1 Trading Post
+1 Bountiful Promenade
+1 Canopy Vista
+1 Fortified Village
+1 Razorverge Thicket
+1 Scattered Groves
+1 Scavenger Grounds
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Throne of the High City
+1 Scourglass
+1 Fleecemane Lion
+1 Hammer of Nazahn
+1 Mind's Eye
+1 Sword of the Animist
+1 Thran Dynamo
+1 Dispatch
+1 Generous Gift
+1 Ingenious Smith
+1 Palace Jailer
+1 Valorous Stance
+1 Beast Within
+1 Harmonize
+1 Loyal Guardian
+1 Arcane Signet
+1 Meteor Golem
+1 Sol Ring
+1 Whispersilk Cloak
+1 Command Tower
+1 Evolving Wilds
+1 Path of Ancestry
+1 Terramorphic Expanse
+6 Plains
+6 Plains
+6 Forest
+6 Forest

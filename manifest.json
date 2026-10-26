@@ -1,0 +1,200 @@
+{
+ "schema": 2,
+ "generated_at": "2026-10-26",
+ "synced": {
+  "cache": "2026-10-26",
+  "lists": "2026-10-26",
+  "rulings": "2026-10-26",
+  "precons": "2026-10-26"
+ },
+ "counts": {
+  "cache": 35103,
+  "lists": 84,
+  "rulings": 78855,
+  "precons": 40
+ },
+ "files": {
+  "data/commander-banlist.json": {
+   "sha": "1e003b8741988b68bcb10189ca27d390effa907f",
+   "bytes": 1866
+  },
+  "data/game-changers.json": {
+   "sha": "3324c721aa6f89ed39ea9effc067f983ada9e109",
+   "bytes": 1274
+  },
+  "precons/abzan-armor-tdc.txt": {
+   "sha": "135036c2c35145ecdcf375ebc10bb6125856f2af",
+   "bytes": 1841
+  },
+  "precons/avengers-assemble-collector-s-edition-msc.txt": {
+   "sha": "37139633960c8e18841b6928a69ceed2a983beb1",
+   "bytes": 2081
+  },
+  "precons/avengers-assemble-msc.txt": {
+   "sha": "1a3c74d8379c4679e49d57d85ba6d73fc4b480bc",
+   "bytes": 2061
+  },
+  "precons/blight-curse-ecc.txt": {
+   "sha": "5e6fc0509a28c67403b08d78ee88249797a31624",
+   "bytes": 1757
+  },
+  "precons/calling-all-angels-fdc.txt": {
+   "sha": "0e5d23a9a3058fe3fbb657ea29598c8ac4a11cf7",
+   "bytes": 1505
+  },
+  "precons/counter-blitz-collector-s-edition-final-fantasy-x-fic.txt": {
+   "sha": "6bb93c22a41ec3eb6622c63fc9df70947b4cbd91",
+   "bytes": 2014
+  },
+  "precons/counter-blitz-final-fantasy-x-fic.txt": {
+   "sha": "c2b35f3734b4a84e4b9f744b3a2dd1482d3b5194",
+   "bytes": 2048
+  },
+  "precons/counter-intelligence-eoc.txt": {
+   "sha": "c86c5039934ea294e6df710109b991d81e27ff91",
+   "bytes": 2013
+  },
+  "precons/dance-of-the-elements-ecc.txt": {
+   "sha": "810b317c729f84c3a95c8a769914f1beaf771216",
+   "bytes": 1782
+  },
+  "precons/doom-prevails-collector-s-edition-msc.txt": {
+   "sha": "584b6eb71e1b916de455dcf987bb371f87cc4666",
+   "bytes": 2034
+  },
+  "precons/doom-prevails-msc.txt": {
+   "sha": "0641697e5500c2b3e15d5b1b306a8b2f0dd22c03",
+   "bytes": 2014
+  },
+  "precons/everyone-s-invited-sld.txt": {
+   "sha": "556c1d34ec6f0dcbecf7edd510136c51b25bda5a",
+   "bytes": 2013
+  },
+  "precons/goblin-storm-sld.txt": {
+   "sha": "dd2ba616400b6ac327bf2131dba777e239b7a2d7",
+   "bytes": 1692
+  },
+  "precons/hatsune-miku-sld.txt": {
+   "sha": "d8aadf72199524b00a84f63a51d9332c2827aab2",
+   "bytes": 1875
+  },
+  "precons/index.json": {
+   "sha": "a188ac6cbbf082c9ec7a69423e80e218bbecca44",
+   "bytes": 6838
+  },
+  "precons/jeskai-striker-tdc.txt": {
+   "sha": "cf6201f7234e3ddff1a5aac3857b24736ce76162",
+   "bytes": 1859
+  },
+  "precons/keen-engineering-fdc.txt": {
+   "sha": "55e297a08e61e8e47c0e133ebe705c39189c70da",
+   "bytes": 1424
+  },
+  "precons/limit-break-collector-s-edition-final-fantasy-vii-fic.txt": {
+   "sha": "1e809a825148ff3f1639f7ca054bde043b2627c6",
+   "bytes": 1997
+  },
+  "precons/limit-break-final-fantasy-vii-fic.txt": {
+   "sha": "e18437ec2b48165156269dced73382b1a88d3715",
+   "bytes": 2035
+  },
+  "precons/lorehold-spirit-soc.txt": {
+   "sha": "ac803c13c8c56b50a6c2249bc472cf619ced634d",
+   "bytes": 1945
+  },
+  "precons/mardu-surge-tdc.txt": {
+   "sha": "39176beb3a64fb41f6b8285e0d9c3275072563e0",
+   "bytes": 1913
+  },
+  "precons/multiverse-reforged-frc.txt": {
+   "sha": "aa6d396d929183874a412c480d8f50177f0fd255",
+   "bytes": 2026
+  },
+  "precons/odds-and-ends-sld.txt": {
+   "sha": "2117f4189c8d66eaa385800cf52f5afff830f788",
+   "bytes": 1952
+  },
+  "precons/prismari-artistry-soc.txt": {
+   "sha": "3225073737ead49b41e4092a9af05d419ca4a21c",
+   "bytes": 1894
+  },
+  "precons/quandrix-unlimited-soc.txt": {
+   "sha": "995e51faca5b1bf854bb0e648eef7b18686f82cb",
+   "bytes": 1973
+  },
+  "precons/reign-of-dragons-fdc.txt": {
+   "sha": "34d630b580d69f2b14c50fccda14f26cfed08ade",
+   "bytes": 1553
+  },
+  "precons/revival-trance-collector-s-edition-final-fantasy-vi-fic.txt": {
+   "sha": "f54ec47867fd0c72149472f57d138b87d20237af",
+   "bytes": 2006
+  },
+  "precons/revival-trance-final-fantasy-vi-fic.txt": {
+   "sha": "6244260442aacd126813e25f43a1878aa7de1bb1",
+   "bytes": 2042
+  },
+  "precons/scions-spellcraft-collector-s-edition-final-fantasy-xiv-fic.txt": {
+   "sha": "7f447e0102cde640bfa3bbfe710e4f3a6b06803b",
+   "bytes": 2039
+  },
+  "precons/scions-spellcraft-final-fantasy-xiv-fic.txt": {
+   "sha": "4a5abde92504d92cbf491bb88520d05e2cab8a7b",
+   "bytes": 2071
+  },
+  "precons/silverquill-influence-soc.txt": {
+   "sha": "b4021f59e907406a65ab08b99ca1b00187cc1e03",
+   "bytes": 1898
+  },
+  "precons/sultai-arisen-tdc.txt": {
+   "sha": "efbb43d31bf423e8f9de8db8b6ae0b4667696b05",
+   "bytes": 1878
+  },
+  "precons/the-fantastic-four-collector-s-edition-msc.txt": {
+   "sha": "f46c2be166d2e81eebb852fb35a6415cb9e42aa1",
+   "bytes": 1968
+  },
+  "precons/the-fantastic-four-msc.txt": {
+   "sha": "6730d2f4e562cf0a129cd2c7661705195edf98e6",
+   "bytes": 1948
+  },
+  "precons/tramplesaurus-rex-fdc.txt": {
+   "sha": "029eb70b1fb6cc2a29a5a5ed25ef776bf644b316",
+   "bytes": 1579
+  },
+  "precons/turtle-power-tmc.txt": {
+   "sha": "2295b6d291a0bc3a5871b94677c1610fbf47c8c2",
+   "bytes": 1952
+  },
+  "precons/wakanda-forever-collector-s-edition-msc.txt": {
+   "sha": "d25ca269459c81c9d6fa9d17aa2eb7c2c7682643",
+   "bytes": 1800
+  },
+  "precons/wakanda-forever-msc.txt": {
+   "sha": "78db34a3a36afcb13c0a0f6229f0379c8eadec56",
+   "bytes": 1780
+  },
+  "precons/witherbloom-pestilence-soc.txt": {
+   "sha": "6cdfcf70e16fe19b0d338e63fbd38840c440bf54",
+   "bytes": 1834
+  },
+  "precons/world-shaper-eoc.txt": {
+   "sha": "25d68723ed16c36a25070a6e274bbc3925991eb7",
+   "bytes": 1863
+  },
+  "precons/wretched-ranks-fdc.txt": {
+   "sha": "60c360817392df52988cdcc601a93d2646b04b45",
+   "bytes": 1493
+  }
+ },
+ "assets": {
+  "card-cache.json.gz": {
+   "sha256": "b9dfd39997270e0885d6b8f0e97bd6d8b7dafbda3dcd88a3956eaab21e0ee647",
+   "bytes": 7918115
+  },
+  "rulings.json.gz": {
+   "sha256": "5a36b9af19754d2a88935199eda4d856178a4f0aed574371cf5aa336fd828bd3",
+   "bytes": 4943821
+  }
+ }
+}

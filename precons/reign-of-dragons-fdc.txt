@@ -1,0 +1,76 @@
+# Stock del precon Reign of Dragons (FDC, 2026-10-02). Fuente: MTGJSON, bajado el 2026-10-26.
+# Generado automáticamente: contrástalo con tu caja antes de fiarte de una carta concreta.
+
+Commander
+1 Lathliss, Dragon Queen
+
+Deck
+1 Atsushi, the Blazing Sky
+1 Blasphemous Act
+1 Chain Reaction
+1 Chandra's Ignition
+1 Chaos Warp
+1 Count on Luck
+1 Crucible of Fire
+1 Cursed Mirror
+1 Dragon Tempest
+1 Dragonhawk, Fate's Tempest
+1 Dragonmaster Outcast
+1 Drakuseth, Maw of Flames
+1 The Elder Dragon War
+1 Goddric, Cloaked Reveler
+1 Goldlust Triad
+1 Hellkite Charger
+1 Hit the Mother Lode
+1 Leyline Tyrant
+1 Magmaquake
+1 Minion of the Mighty
+1 Nogi, Draco-Zealot
+1 Orb of Dragonkind
+1 Outpost Siege
+1 Parapet Thrasher
+1 Sarkhan, Dragon Ascendant
+1 Scourge of the Throne
+1 Scourge of Valkas
+1 Shivan Devastator
+1 Spit Flame
+1 Taurean Mauler
+1 Terror of Mount Velus
+1 Thunderbreak Regent
+1 Thundermane Dragon
+1 Tyrant's Familiar
+1 Utvara Hellkite
+1 Warstorm Surge
+1 Basilisk Collar
+1 Dragon's Hoard
+1 Bonders' Enclave
+1 Haven of the Spirit Dragon
+1 Spinerock Knoll
+1 War Room
+1 Abrade
+1 Anger
+1 Bitter Reunion
+1 Breaching Dragonstorm
+1 Breath Weapon
+1 Carnelian Orb of Dragonkind
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Firespitter Whelp
+1 Lightning Bolt
+1 Mana Geyser
+1 Rapacious Dragon
+1 Skyline Despot
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Arcane Signet
+1 Commander's Sphere
+1 Dragonstorm Globe
+1 Fire Diamond
+1 Hazoret's Monument
+1 Herald's Horn
+1 Sol Ring
+1 Swiftfoot Boots
+1 Forgotten Cave
+1 Temple of the False God
+16 Mountain
+16 Mountain

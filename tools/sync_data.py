@@ -74,10 +74,19 @@ def download(url, dest, max_bytes=MAX_BULK):
 _WS = re.compile(r"[ \n\r\t,]*")
 
 
+def _text(path):
+    """Abre el volcado como texto; si viene comprimido (gzip, como el JSONL actual de Scryfall) lo descomprime al vuelo."""
+    with open(path, "rb") as f:
+        magic = f.read(2)
+    if magic == b"\x1f\x8b":
+        return gzip.open(path, "rt", encoding="utf-8")
+    return open(path, "r", encoding="utf-8")
+
+
 def iter_array(path):
     """Recorre un volcado grande objeto a objeto: array JSON ([...]) o JSONL (un objeto por línea)."""
     head = ""
-    with open(path, "r", encoding="utf-8") as f:
+    with _text(path) as f:
         while True:
             ch = f.read(1)
             if not ch:
@@ -88,7 +97,7 @@ def iter_array(path):
     if head == "[":
         yield from _iter_json_array(path)
         return
-    with open(path, "r", encoding="utf-8") as f:
+    with _text(path) as f:
         for line in f:
             line = line.strip().lstrip("\ufeff")
             if line:
@@ -98,7 +107,7 @@ def iter_array(path):
 def _iter_json_array(path):
     """Recorre un array JSON enorme objeto a objeto sin cargarlo entero (solo stdlib)."""
     dec = json.JSONDecoder()
-    with open(path, "r", encoding="utf-8") as f:
+    with _text(path) as f:
         buf, pos, started, eof = "", 0, False, False
         while True:
             if not eof:

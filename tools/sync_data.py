@@ -125,7 +125,12 @@ def source_file(kind, bulk_dir, tmp):
     ent = next((d for d in idx.get("data", []) if d.get("type") == kind), None)
     if not ent:
         raise ValueError(f"Scryfall no lista el volcado {kind}")
-    return download(ent["download_uri"], os.path.join(tmp, kind + ".json")), ent.get("updated_at")
+    uri = ent.get("download_uri")
+    if not uri and ent.get("id"):
+        uri = get_json("https://api.scryfall.com/bulk-data/" + ent["id"]).get("download_uri")
+    if not uri:
+        raise ValueError(f"Scryfall: el volcado {kind} no trae download_uri; claves: {sorted(ent)}")
+    return download(uri, os.path.join(tmp, kind + ".json")), ent.get("updated_at")
 
 
 # ----------------------------------------------------------------- piezas ----

@@ -1,14 +1,14 @@
 name: Sincronizar datos (Scryfall, MTGJSON)
 on:
   schedule:
-    - cron: "0 4 * * 1"        # lunes 04:00 UTC; los flujos de n8n corren después
+    - cron: "0 4 * * 1"
   workflow_dispatch:
     inputs:
       only:
         description: "Piezas a sincronizar (cache,lists,rulings,precons). Útil si una falla."
         default: "cache,lists,rulings,precons"
 permissions:
-  contents: write              # commit de data/, precons/ y manifest.json + release
+  contents: write
 concurrency:
   group: sync-data
   cancel-in-progress: false

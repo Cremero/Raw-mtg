@@ -75,6 +75,27 @@ _WS = re.compile(r"[ \n\r\t,]*")
 
 
 def iter_array(path):
+    """Recorre un volcado grande objeto a objeto: array JSON ([...]) o JSONL (un objeto por línea)."""
+    head = ""
+    with open(path, "r", encoding="utf-8") as f:
+        while True:
+            ch = f.read(1)
+            if not ch:
+                return
+            if not ch.isspace() and ch != "\ufeff":
+                head = ch
+                break
+    if head == "[":
+        yield from _iter_json_array(path)
+        return
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip().lstrip("\ufeff")
+            if line:
+                yield json.loads(line)
+
+
+def _iter_json_array(path):
     """Recorre un array JSON enorme objeto a objeto sin cargarlo entero (solo stdlib)."""
     dec = json.JSONDecoder()
     with open(path, "r", encoding="utf-8") as f:
@@ -125,12 +146,14 @@ def source_file(kind, bulk_dir, tmp):
     ent = next((d for d in idx.get("data", []) if d.get("type") == kind), None)
     if not ent:
         raise ValueError(f"Scryfall no lista el volcado {kind}")
-    uri = ent.get("download_uri")
+    # Scryfall cambió el formato: ahora puede dar solo `jsonl_download_uri` (un objeto JSON por línea)
+    pick = lambda e: e.get("download_uri") or e.get("jsonl_download_uri")
+    uri = pick(ent)
     if not uri and ent.get("id"):
-        uri = get_json("https://api.scryfall.com/bulk-data/" + ent["id"]).get("download_uri")
+        uri = pick(get_json("https://api.scryfall.com/bulk-data/" + ent["id"]))
     if not uri:
         raise ValueError(f"Scryfall: el volcado {kind} no trae download_uri; claves: {sorted(ent)}")
-    return download(uri, os.path.join(tmp, kind + ".json")), ent.get("updated_at")
+    return download(uri, os.path.join(tmp, kind + ".dump")), ent.get("updated_at")
 
 
 # ----------------------------------------------------------------- piezas ----

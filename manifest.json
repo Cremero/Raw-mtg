@@ -1,21 +1,21 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28",
+ "generated_at": "2026-10-29",
  "synced": {
-  "lists": "2026-10-28",
-  "cache": "2026-10-28"
+  "lists": "2026-10-29",
+  "cache": "2026-10-29"
  },
  "files": {
   "card-cache.json": {
-   "sha": "1f1a73406dca9699c941a01764294416bd4a7de0",
-   "bytes": 722789
+   "sha": "573298d684fbec6db26e5804b4b9c67ccc3ce9cf",
+   "bytes": 1608469
   },
   "data/commander-banlist.json": {
-   "sha": "021641ba0e16980a17abd2eed6f776a2585d92db",
+   "sha": "9e5cb7d8cbbb59c1f2285a3a50dbb4f5696b37d1",
    "bytes": 1859
   },
   "data/game-changers.json": {
-   "sha": "80e545b7d9ec58325c9ca2412e539a696e8edb63",
+   "sha": "28d2575e59625a8abefff568dcd737bd0b561a29",
    "bytes": 1273
   },
   "stats/_last-run.json": {

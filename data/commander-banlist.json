@@ -1,7 +1,7 @@
 {
  "format": "Commander",
- "source": "Scryfall banned:commander (n8n)",
- "last_verified": "2026-10-29",
+ "source": "Scryfall legalities.commander (Action)",
+ "last_verified": "2026-10-30",
  "banned_cards": [
   "Adriana's Valor",
   "Advantageous Proclamation",

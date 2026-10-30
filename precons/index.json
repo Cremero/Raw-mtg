@@ -1,10 +1,34 @@
 {
+ "20-ways-to-win-sld": {
+  "name": "20 Ways to Win",
+  "code": "SLD",
+  "released": "2024-12-04",
+  "commanders": [
+   "Go-Shintai of Life's Origin"
+  ]
+ },
  "abzan-armor-tdc": {
   "name": "Abzan Armor",
   "code": "TDC",
   "released": "2025-04-11",
   "commanders": [
    "Felothar the Steadfast"
+  ]
+ },
+ "ahoy-mateys-lcc": {
+  "name": "Ahoy Mateys",
+  "code": "LCC",
+  "released": "2023-11-17",
+  "commanders": [
+   "Admiral Brass, Unsinkable"
+  ]
+ },
+ "animated-army-blc": {
+  "name": "Animated Army",
+  "code": "BLC",
+  "released": "2024-08-02",
+  "commanders": [
+   "Bello, Bard of the Brambles"
   ]
  },
  "avengers-assemble-collector-s-edition-msc": {
@@ -23,12 +47,37 @@
    "Captain America, Team Leader"
   ]
  },
+ "blame-game-mkc": {
+  "name": "Blame Game",
+  "code": "MKC",
+  "released": "2024-02-09",
+  "commanders": [
+   "Nelly Borca, Impulsive Accuser"
+  ]
+ },
+ "blast-from-the-past-who": {
+  "name": "Blast from the Past",
+  "code": "WHO",
+  "released": "2023-10-13",
+  "commanders": [
+   "The Fourth Doctor",
+   "Sarah Jane Smith"
+  ]
+ },
  "blight-curse-ecc": {
   "name": "Blight Curse",
   "code": "ECC",
   "released": "2026-01-23",
   "commanders": [
    "Auntie Ool, Cursewretch"
+  ]
+ },
+ "blood-rites-lcc": {
+  "name": "Blood Rites",
+  "code": "LCC",
+  "released": "2023-11-17",
+  "commanders": [
+   "Clavileño, First of the Blessed"
   ]
  },
  "calling-all-angels-fdc": {
@@ -63,12 +112,60 @@
    "Inspirit, Flagship Vessel"
   ]
  },
+ "creative-energy-collector-s-edition-m3c": {
+  "name": "Creative Energy Collector's Edition",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Satya, Aetherflux Genius"
+  ]
+ },
+ "creative-energy-m3c": {
+  "name": "Creative Energy",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Satya, Aetherflux Genius"
+  ]
+ },
  "dance-of-the-elements-ecc": {
   "name": "Dance of the Elements",
   "code": "ECC",
   "released": "2026-01-23",
   "commanders": [
    "Ashling, the Limitless"
+  ]
+ },
+ "deadly-disguise-mkc": {
+  "name": "Deadly Disguise",
+  "code": "MKC",
+  "released": "2024-02-09",
+  "commanders": [
+   "Kaust, Eyes of the Glade"
+  ]
+ },
+ "death-toll-dsc": {
+  "name": "Death Toll",
+  "code": "DSC",
+  "released": "2024-09-27",
+  "commanders": [
+   "Winter, Cynical Opportunist"
+  ]
+ },
+ "deep-clue-sea-mkc": {
+  "name": "Deep Clue Sea",
+  "code": "MKC",
+  "released": "2024-02-09",
+  "commanders": [
+   "Morska, Undersea Sleuth"
+  ]
+ },
+ "desert-bloom-otc": {
+  "name": "Desert Bloom",
+  "code": "OTC",
+  "released": "2024-04-19",
+  "commanders": [
+   "Yuma, Proud Protector"
   ]
  },
  "doom-prevails-collector-s-edition-msc": {
@@ -87,6 +184,38 @@
    "Doctor Doom, King of Latveria"
   ]
  },
+ "eldrazi-incursion-collector-s-edition-m3c": {
+  "name": "Eldrazi Incursion Collector's Edition",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Ulalek, Fused Atrocity"
+  ]
+ },
+ "eldrazi-incursion-m3c": {
+  "name": "Eldrazi Incursion",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Ulalek, Fused Atrocity"
+  ]
+ },
+ "endless-punishment-dsc": {
+  "name": "Endless Punishment",
+  "code": "DSC",
+  "released": "2024-09-27",
+  "commanders": [
+   "Valgavoth, Harrower of Souls"
+  ]
+ },
+ "eternal-might-drc": {
+  "name": "Eternal Might",
+  "code": "DRC",
+  "released": "2025-02-14",
+  "commanders": [
+   "Temmet, Naktamun's Will"
+  ]
+ },
  "everyone-s-invited-sld": {
   "name": "Everyone's Invited!",
   "code": "SLD",
@@ -95,12 +224,60 @@
    "Morophon, the Boundless"
   ]
  },
+ "explorers-of-the-deep-lcc": {
+  "name": "Explorers of the Deep",
+  "code": "LCC",
+  "released": "2023-11-17",
+  "commanders": [
+   "Hakbal of the Surging Soul"
+  ]
+ },
+ "family-matters-blc": {
+  "name": "Family Matters",
+  "code": "BLC",
+  "released": "2024-08-02",
+  "commanders": [
+   "Zinnia, Valley's Voice"
+  ]
+ },
  "goblin-storm-sld": {
   "name": "Goblin Storm",
   "code": "SLD",
   "released": "2026-05-18",
   "commanders": [
    "Zada, Hedron Grinder"
+  ]
+ },
+ "grand-larceny-otc": {
+  "name": "Grand Larceny",
+  "code": "OTC",
+  "released": "2024-04-19",
+  "commanders": [
+   "Gonti, Canny Acquisitor"
+  ]
+ },
+ "graveyard-overdrive-collector-s-edition-m3c": {
+  "name": "Graveyard Overdrive Collector's Edition",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Disa the Restless"
+  ]
+ },
+ "graveyard-overdrive-m3c": {
+  "name": "Graveyard Overdrive",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Disa the Restless"
+  ]
+ },
+ "hail-caesar-pip": {
+  "name": "Hail, Caesar",
+  "code": "PIP",
+  "released": "2024-03-08",
+  "commanders": [
+   "Caesar, Legion's Emperor"
   ]
  },
  "hatsune-miku-sld": {
@@ -117,6 +294,14 @@
   "released": "2025-04-11",
   "commanders": [
    "Shiko and Narset, Unified"
+  ]
+ },
+ "jump-scare-dsc": {
+  "name": "Jump Scare!",
+  "code": "DSC",
+  "released": "2024-09-27",
+  "commanders": [
+   "Zimone, Mystery Unraveler"
   ]
  },
  "keen-engineering-fdc": {
@@ -143,6 +328,14 @@
    "Cloud, Ex-SOLDIER"
   ]
  },
+ "living-energy-drc": {
+  "name": "Living Energy",
+  "code": "DRC",
+  "released": "2025-02-14",
+  "commanders": [
+   "Saheeli, Radiant Creator"
+  ]
+ },
  "lorehold-spirit-soc": {
   "name": "Lorehold Spirit",
   "code": "SOC",
@@ -159,6 +352,30 @@
    "Zurgo Stormrender"
   ]
  },
+ "masters-of-evil-who": {
+  "name": "Masters of Evil",
+  "code": "WHO",
+  "released": "2023-10-13",
+  "commanders": [
+   "Davros, Dalek Creator"
+  ]
+ },
+ "miracle-worker-dsc": {
+  "name": "Miracle Worker",
+  "code": "DSC",
+  "released": "2024-09-27",
+  "commanders": [
+   "Aminatou, Veil Piercer"
+  ]
+ },
+ "most-wanted-otc": {
+  "name": "Most Wanted",
+  "code": "OTC",
+  "released": "2024-04-19",
+  "commanders": [
+   "Olivia, Opulent Outlaw"
+  ]
+ },
  "multiverse-reforged-frc": {
   "name": "Multiverse Reforged",
   "code": "FRC",
@@ -167,12 +384,37 @@
    "Jace, Multiverse Architect"
   ]
  },
+ "mutant-menace-pip": {
+  "name": "Mutant Menace",
+  "code": "PIP",
+  "released": "2024-03-08",
+  "commanders": [
+   "The Wise Mothman"
+  ]
+ },
  "odds-and-ends-sld": {
   "name": "Odds and Ends",
   "code": "SLD",
   "released": "2026-09-28",
   "commanders": [
    "Yennett, Cryptic Sovereign"
+  ]
+ },
+ "paradox-power-who": {
+  "name": "Paradox Power",
+  "code": "WHO",
+  "released": "2023-10-13",
+  "commanders": [
+   "The Thirteenth Doctor",
+   "Yasmin Khan"
+  ]
+ },
+ "peace-offering-blc": {
+  "name": "Peace Offering",
+  "code": "BLC",
+  "released": "2024-08-02",
+  "commanders": [
+   "Ms. Bumbleflower"
   ]
  },
  "prismari-artistry-soc": {
@@ -191,12 +433,36 @@
    "Zimone, Infinite Analyst"
   ]
  },
+ "quick-draw-otc": {
+  "name": "Quick Draw",
+  "code": "OTC",
+  "released": "2024-04-19",
+  "commanders": [
+   "Stella Lee, Wild Card"
+  ]
+ },
+ "raining-cats-and-dogs-sld": {
+  "name": "Raining Cats and Dogs",
+  "code": "SLD",
+  "released": "2024-01-22",
+  "commanders": [
+   "Rin and Seri, Inseparable // Rin and Seri, Inseparable"
+  ]
+ },
  "reign-of-dragons-fdc": {
   "name": "Reign of Dragons",
   "code": "FDC",
   "released": "2026-10-02",
   "commanders": [
    "Lathliss, Dragon Queen"
+  ]
+ },
+ "revenant-recon-mkc": {
+  "name": "Revenant Recon",
+  "code": "MKC",
+  "released": "2024-02-09",
+  "commanders": [
+   "Mirko, Obsessive Theorist"
   ]
  },
  "revival-trance-collector-s-edition-final-fantasy-vi-fic": {
@@ -215,6 +481,14 @@
    "Terra, Herald of Hope"
   ]
  },
+ "science-pip": {
+  "name": "Science!",
+  "code": "PIP",
+  "released": "2024-03-08",
+  "commanders": [
+   "Dr. Madison Li"
+  ]
+ },
  "scions-spellcraft-collector-s-edition-final-fantasy-xiv-fic": {
   "name": "Scions & Spellcraft Collector's Edition (FINAL FANTASY XIV)",
   "code": "FIC",
@@ -231,6 +505,14 @@
    "Y'shtola, Night's Blessed"
   ]
  },
+ "scrappy-survivors-pip": {
+  "name": "Scrappy Survivors",
+  "code": "PIP",
+  "released": "2024-03-08",
+  "commanders": [
+   "Dogmeat, Ever Loyal"
+  ]
+ },
  "silverquill-influence-soc": {
   "name": "Silverquill Influence",
   "code": "SOC",
@@ -239,12 +521,28 @@
    "Killian, Decisive Mentor"
   ]
  },
+ "squirreled-away-blc": {
+  "name": "Squirreled Away",
+  "code": "BLC",
+  "released": "2024-08-02",
+  "commanders": [
+   "Hazel of the Rootbloom"
+  ]
+ },
  "sultai-arisen-tdc": {
   "name": "Sultai Arisen",
   "code": "TDC",
   "released": "2025-04-11",
   "commanders": [
    "Teval, the Balanced Scale"
+  ]
+ },
+ "temur-roar-tdc": {
+  "name": "Temur Roar",
+  "code": "TDC",
+  "released": "2025-04-11",
+  "commanders": [
+   "Eshki, Temur's Roar"
   ]
  },
  "the-fantastic-four-collector-s-edition-msc": {
@@ -271,12 +569,36 @@
    "Ghalta, Primal Hunger"
   ]
  },
+ "tricky-terrain-collector-s-edition-m3c": {
+  "name": "Tricky Terrain Collector's Edition",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Omo, Queen of Vesuva"
+  ]
+ },
+ "tricky-terrain-m3c": {
+  "name": "Tricky Terrain",
+  "code": "M3C",
+  "released": "2024-06-14",
+  "commanders": [
+   "Omo, Queen of Vesuva"
+  ]
+ },
  "turtle-power-tmc": {
   "name": "Turtle Power!",
   "code": "TMC",
   "released": "2026-03-06",
   "commanders": [
    "Heroes in a Half Shell"
+  ]
+ },
+ "veloci-ramp-tor-lcc": {
+  "name": "Veloci-Ramp-Tor",
+  "code": "LCC",
+  "released": "2023-11-17",
+  "commanders": [
+   "Pantlaza, Sun-Favored"
   ]
  },
  "wakanda-forever-collector-s-edition-msc": {

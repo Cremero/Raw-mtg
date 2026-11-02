@@ -23,6 +23,14 @@
    "Admiral Brass, Unsinkable"
   ]
  },
+ "angels-they-re-just-like-us-but-cooler-and-with-wings-sld": {
+  "name": "Angels: They're Just Like Us but Cooler and with Wings",
+  "code": "SLD",
+  "released": "2023-08-14",
+  "commanders": [
+   "Gisela, the Broken Blade // Brisela, Voice of Nightmares"
+  ]
+ },
  "animated-army-blc": {
   "name": "Animated Army",
   "code": "BLC",
@@ -80,12 +88,44 @@
    "Clavileño, First of the Blessed"
   ]
  },
+ "call-for-backup-moc": {
+  "name": "Call for Backup",
+  "code": "MOC",
+  "released": "2023-04-21",
+  "commanders": [
+   "Bright-Palm, Soul Awakener"
+  ]
+ },
  "calling-all-angels-fdc": {
   "name": "Calling All Angels",
   "code": "FDC",
   "released": "2026-10-02",
   "commanders": [
    "Giada, Font of Hope"
+  ]
+ },
+ "cavalry-charge-moc": {
+  "name": "Cavalry Charge",
+  "code": "MOC",
+  "released": "2023-04-21",
+  "commanders": [
+   "Sidar Jabari of Zhalfir"
+  ]
+ },
+ "chaos-incarnate-scd": {
+  "name": "Chaos Incarnate",
+  "code": "SCD",
+  "released": "2022-12-02",
+  "commanders": [
+   "Kardur, Doomscourge"
+  ]
+ },
+ "corrupting-influence-onc": {
+  "name": "Corrupting Influence",
+  "code": "ONC",
+  "released": "2023-02-10",
+  "commanders": [
+   "Ixhel, Scion of Atraxa"
   ]
  },
  "counter-blitz-collector-s-edition-final-fantasy-x-fic": {
@@ -168,6 +208,14 @@
    "Yuma, Proud Protector"
   ]
  },
+ "divine-convocation-moc": {
+  "name": "Divine Convocation",
+  "code": "MOC",
+  "released": "2023-04-21",
+  "commanders": [
+   "Kasla, the Broken Halo"
+  ]
+ },
  "doom-prevails-collector-s-edition-msc": {
   "name": "Doom Prevails Collector's Edition",
   "code": "MSC",
@@ -182,6 +230,22 @@
   "released": "2026-06-26",
   "commanders": [
    "Doctor Doom, King of Latveria"
+  ]
+ },
+ "draconic-destruction-scd": {
+  "name": "Draconic Destruction",
+  "code": "SCD",
+  "released": "2022-12-02",
+  "commanders": [
+   "Atarka, World Render"
+  ]
+ },
+ "draconic-dissent-clb": {
+  "name": "Draconic Dissent",
+  "code": "CLB",
+  "released": "2022-06-10",
+  "commanders": [
+   "Firkraag, Cunning Instigator"
   ]
  },
  "eldrazi-incursion-collector-s-edition-m3c": {
@@ -200,12 +264,36 @@
    "Ulalek, Fused Atrocity"
   ]
  },
+ "eldrazi-unbound-cmm": {
+  "name": "Eldrazi Unbound",
+  "code": "CMM",
+  "released": "2023-08-04",
+  "commanders": [
+   "Zhulodok, Void Gorger"
+  ]
+ },
+ "elven-council-ltc": {
+  "name": "Elven Council",
+  "code": "LTC",
+  "released": "2023-06-23",
+  "commanders": [
+   "Galadriel, Elven-Queen"
+  ]
+ },
  "endless-punishment-dsc": {
   "name": "Endless Punishment",
   "code": "DSC",
   "released": "2024-09-27",
   "commanders": [
    "Valgavoth, Harrower of Souls"
+  ]
+ },
+ "enduring-enchantments-cmm": {
+  "name": "Enduring Enchantments",
+  "code": "CMM",
+  "released": "2023-08-04",
+  "commanders": [
+   "Anikthea, Hand of Erebos"
   ]
  },
  "eternal-might-drc": {
@@ -224,6 +312,14 @@
    "Morophon, the Boundless"
   ]
  },
+ "exit-from-exile-clb": {
+  "name": "Exit from Exile",
+  "code": "CLB",
+  "released": "2022-06-10",
+  "commanders": [
+   "Faldorn, Dread Wolf Herald"
+  ]
+ },
  "explorers-of-the-deep-lcc": {
   "name": "Explorers of the Deep",
   "code": "LCC",
@@ -232,12 +328,61 @@
    "Hakbal of the Surging Soul"
   ]
  },
+ "fae-dominion-woc": {
+  "name": "Fae Dominion",
+  "code": "WOC",
+  "released": "2023-09-08",
+  "commanders": [
+   "Tegwyll, Duke of Splendor"
+  ]
+ },
  "family-matters-blc": {
   "name": "Family Matters",
   "code": "BLC",
   "released": "2024-08-02",
   "commanders": [
    "Zinnia, Valley's Voice"
+  ]
+ },
+ "first-flight-scd": {
+  "name": "First Flight",
+  "code": "SCD",
+  "released": "2022-12-02",
+  "commanders": [
+   "Isperia, Supreme Judge"
+  ]
+ },
+ "food-and-fellowship-ltc": {
+  "name": "Food and Fellowship",
+  "code": "LTC",
+  "released": "2023-06-23",
+  "commanders": [
+   "Frodo, Adventurous Hobbit",
+   "Sam, Loyal Attendant"
+  ]
+ },
+ "forces-of-the-imperium-40k": {
+  "name": "Forces of the Imperium",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Inquisitor Greyfax"
+  ]
+ },
+ "forces-of-the-imperium-collector-s-edition-40k": {
+  "name": "Forces of the Imperium Collector's Edition",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Inquisitor Greyfax"
+  ]
+ },
+ "from-cute-to-brute-sld": {
+  "name": "From Cute to Brute",
+  "code": "SLD",
+  "released": "2023-05-08",
+  "commanders": [
+   "Esika, God of the Tree // The Prismatic Bridge"
   ]
  },
  "goblin-storm-sld": {
@@ -256,6 +401,14 @@
    "Gonti, Canny Acquisitor"
   ]
  },
+ "grave-danger-scd": {
+  "name": "Grave Danger",
+  "code": "SCD",
+  "released": "2022-12-02",
+  "commanders": [
+   "Gisa and Geralf"
+  ]
+ },
  "graveyard-overdrive-collector-s-edition-m3c": {
   "name": "Graveyard Overdrive Collector's Edition",
   "code": "M3C",
@@ -270,6 +423,14 @@
   "released": "2024-06-14",
   "commanders": [
    "Disa the Restless"
+  ]
+ },
+ "growing-threat-moc": {
+  "name": "Growing Threat",
+  "code": "MOC",
+  "released": "2023-04-21",
+  "commanders": [
+   "Brimaz, Blight of Oreskos"
   ]
  },
  "hail-caesar-pip": {
@@ -310,6 +471,14 @@
   "released": "2026-10-02",
   "commanders": [
    "Sai, Master Thopterist"
+  ]
+ },
+ "legends-legacy-dmc": {
+  "name": "Legends' Legacy",
+  "code": "DMC",
+  "released": "2022-09-09",
+  "commanders": [
+   "Dihada, Binder of Wills"
   ]
  },
  "limit-break-collector-s-edition-final-fantasy-vii-fic": {
@@ -360,12 +529,28 @@
    "Davros, Dalek Creator"
   ]
  },
+ "mind-flayarrrs-clb": {
+  "name": "Mind Flayarrrs",
+  "code": "CLB",
+  "released": "2022-06-10",
+  "commanders": [
+   "Captain N'ghathrod"
+  ]
+ },
  "miracle-worker-dsc": {
   "name": "Miracle Worker",
   "code": "DSC",
   "released": "2024-09-27",
   "commanders": [
    "Aminatou, Veil Piercer"
+  ]
+ },
+ "mishra-s-burnished-banner-brc": {
+  "name": "Mishra's Burnished Banner",
+  "code": "BRC",
+  "released": "2022-11-18",
+  "commanders": [
+   "Mishra, Eminent One"
   ]
  },
  "most-wanted-otc": {
@@ -392,12 +577,36 @@
    "The Wise Mothman"
   ]
  },
+ "necron-dynasties-40k": {
+  "name": "Necron Dynasties",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Szarekh, the Silent King"
+  ]
+ },
+ "necron-dynasties-collector-s-edition-40k": {
+  "name": "Necron Dynasties Collector's Edition",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Szarekh, the Silent King"
+  ]
+ },
  "odds-and-ends-sld": {
   "name": "Odds and Ends",
   "code": "SLD",
   "released": "2026-09-28",
   "commanders": [
    "Yennett, Cryptic Sovereign"
+  ]
+ },
+ "painbow-dmc": {
+  "name": "Painbow",
+  "code": "DMC",
+  "released": "2022-09-09",
+  "commanders": [
+   "Jared Carthalion"
   ]
  },
  "paradox-power-who": {
@@ -415,6 +624,14 @@
   "released": "2024-08-02",
   "commanders": [
    "Ms. Bumbleflower"
+  ]
+ },
+ "planeswalker-party-cmm": {
+  "name": "Planeswalker Party",
+  "code": "CMM",
+  "released": "2023-08-04",
+  "commanders": [
+   "Commodore Guff"
   ]
  },
  "prismari-artistry-soc": {
@@ -449,6 +666,14 @@
    "Rin and Seri, Inseparable // Rin and Seri, Inseparable"
   ]
  },
+ "rebellion-rising-onc": {
+  "name": "Rebellion Rising",
+  "code": "ONC",
+  "released": "2023-02-10",
+  "commanders": [
+   "Neyali, Suns' Vanguard"
+  ]
+ },
  "reign-of-dragons-fdc": {
   "name": "Reign of Dragons",
   "code": "FDC",
@@ -479,6 +704,14 @@
   "released": "2025-06-13",
   "commanders": [
    "Terra, Herald of Hope"
+  ]
+ },
+ "riders-of-rohan-ltc": {
+  "name": "Riders of Rohan",
+  "code": "LTC",
+  "released": "2023-06-23",
+  "commanders": [
+   "Éowyn, Shieldmaiden"
   ]
  },
  "science-pip": {
@@ -521,6 +754,14 @@
    "Killian, Decisive Mentor"
   ]
  },
+ "sliver-swarm-cmm": {
+  "name": "Sliver Swarm",
+  "code": "CMM",
+  "released": "2023-08-04",
+  "commanders": [
+   "Sliver Gravemother"
+  ]
+ },
  "squirreled-away-blc": {
   "name": "Squirreled Away",
   "code": "BLC",
@@ -561,6 +802,55 @@
    "Invisible Woman"
   ]
  },
+ "the-hosts-of-mordor-ltc": {
+  "name": "The Hosts of Mordor",
+  "code": "LTC",
+  "released": "2023-06-23",
+  "commanders": [
+   "Sauron, Lord of the Rings"
+  ]
+ },
+ "the-ruinous-powers-40k": {
+  "name": "The Ruinous Powers",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Abaddon the Despoiler"
+  ]
+ },
+ "the-ruinous-powers-collector-s-edition-40k": {
+  "name": "The Ruinous Powers Collector's Edition",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "Abaddon the Despoiler"
+  ]
+ },
+ "timey-wimey-who": {
+  "name": "Timey-Wimey",
+  "code": "WHO",
+  "released": "2023-10-13",
+  "commanders": [
+   "The Tenth Doctor",
+   "Rose Tyler"
+  ]
+ },
+ "tinker-time-moc": {
+  "name": "Tinker Time",
+  "code": "MOC",
+  "released": "2023-04-21",
+  "commanders": [
+   "Gimbal, Gremlin Prodigy"
+  ]
+ },
+ "token-triumph-scd": {
+  "name": "Token Triumph",
+  "code": "SCD",
+  "released": "2022-12-02",
+  "commanders": [
+   "Emmara, Soul of the Accord"
+  ]
+ },
  "tramplesaurus-rex-fdc": {
   "name": "Tramplesaurus Rex",
   "code": "FDC",
@@ -593,12 +883,44 @@
    "Heroes in a Half Shell"
   ]
  },
+ "tyranid-swarm-40k": {
+  "name": "Tyranid Swarm",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "The Swarmlord"
+  ]
+ },
+ "tyranid-swarm-collector-s-edition-40k": {
+  "name": "Tyranid Swarm Collector's Edition",
+  "code": "40K",
+  "released": "2022-10-07",
+  "commanders": [
+   "The Swarmlord"
+  ]
+ },
+ "urza-s-iron-alliance-brc": {
+  "name": "Urza's Iron Alliance",
+  "code": "BRC",
+  "released": "2022-11-18",
+  "commanders": [
+   "Urza, Chief Artificer"
+  ]
+ },
  "veloci-ramp-tor-lcc": {
   "name": "Veloci-Ramp-Tor",
   "code": "LCC",
   "released": "2023-11-17",
   "commanders": [
    "Pantlaza, Sun-Favored"
+  ]
+ },
+ "virtue-and-valor-woc": {
+  "name": "Virtue and Valor",
+  "code": "WOC",
+  "released": "2023-09-08",
+  "commanders": [
+   "Ellivere of the Wild Court"
   ]
  },
  "wakanda-forever-collector-s-edition-msc": {

@@ -1,0 +1,104 @@
+# Stock del precon Landing Party (TRC, 2026-11-13). Fuente: MTGJSON, bajado el 2026-11-09.
+# Generado automáticamente: contrástalo con tu caja antes de fiarte de una carta concreta.
+
+Commander
+1 Commander Spock
+
+Deck
+1 Captain Kirk, Boldly Going
+1 Balance of Terror
+1 Merciful Mandate
+1 M'Ress, Crew Coordinator
+1 Shuttlecraft Galileo
+1 Tribble Cluster
+1 Colossal Clone Master
+1 Fleet Captain Christopher Pike
+1 Giant Space Amoeba
+1 Lieutenant Nyota Uhura
+1 Sam Kirk, Xenoanthropologist
+1 Temporal Tribulation
+1 Amanda Grayson, Logic's Link
+1 Christine Chapel, Combat Medic
+1 Janice Rand, Essential Aide
+1 Lieutenant Hikaru Sulu
+1 Chief Kyle, Transporter Tech
+1 Chief Montgomery Scott
+1 Lt. Arex, Ever-Adapting
+1 McCoy, Not a Bricklayer
+1 Pavel Chekov, First Posting
+1 T'Pring, Never Parted
+1 Command Chair
+1 The Guardian of Forever
+1 Jefferies Tube
+1 Planet Killer
+1 S.S. Botany Bay
+1 Starfleet Communicator
+1 Starship Enterprise
+1 U.S.S. Defiant, Mirror Migrant
+1 U.S.S. Farragut, Bold Explorer
+1 Shore Leave Planet
+1 Austere Command
+1 Sun Titan
+1 Wrath of God
+1 Echo of Eons
+1 Ancient Greenwarden
+1 Augur of Autumn
+1 Exploration
+1 Guardian Project
+1 Heroic Intervention
+1 Lotus Cobra
+1 Scute Swarm
+1 Tireless Tracker
+1 Canopy Vista
+1 Exotic Orchard
+1 Fabled Passage
+1 Fortified Village
+1 Glacial Fortress
+1 Hinterland Harbor
+1 Irrigated Farmland
+1 Mosswort Bridge
+1 Mutavault
+1 Port Town
+1 Prairie Stream
+1 Rain-Slicked Copse
+1 Scattered Groves
+1 Sea of Clouds
+1 Sodden Verdure
+1 Sunpetal Grove
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Vineglimmer Snarl
+1 Cold-Blooded Crew
+1 Syndicate Liquidators
+1 Earth, Sector 001
+1 Risa
+1 Vulcan
+1 Path to Exile
+1 Brainstorm
+1 Ponder
+1 Reality Shift
+1 Beast Within
+1 Cultivate
+1 Farseek
+1 Harmonize
+1 Nature's Lore
+1 Rampant Growth
+1 Satyr Wayfinder
+1 Growth Spiral
+1 Arcane Signet
+1 Sol Ring
+1 Command Tower
+1 Evolving Wilds
+1 Path of Ancestry
+1 Reliquary Tower
+1 Seaside Citadel
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Tranquil Landscape
+2 Forest
+2 Forest
+1 Plains
+1 Plains
+1 Island
+1 Island

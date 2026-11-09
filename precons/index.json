@@ -39,6 +39,30 @@
    "Bello, Bard of the Brambles"
   ]
  },
+ "arcane-maelstrom-c20": {
+  "name": "Arcane Maelstrom",
+  "code": "C20",
+  "released": "2020-04-17",
+  "commanders": [
+   "Kalamax, the Stormsire"
+  ]
+ },
+ "arm-for-battle-cmr": {
+  "name": "Arm for Battle",
+  "code": "CMR",
+  "released": "2020-11-20",
+  "commanders": [
+   "Wyleth, Soul of Steel"
+  ]
+ },
+ "aura-of-courage-afc": {
+  "name": "Aura of Courage",
+  "code": "AFC",
+  "released": "2021-07-23",
+  "commanders": [
+   "Galea, Kindler of Hope"
+  ]
+ },
  "avengers-assemble-collector-s-edition-msc": {
   "name": "Avengers Assemble Collector's Edition",
   "code": "MSC",
@@ -53,6 +77,14 @@
   "released": "2026-06-26",
   "commanders": [
    "Captain America, Team Leader"
+  ]
+ },
+ "bedecked-brokers-ncc": {
+  "name": "Bedecked Brokers",
+  "code": "NCC",
+  "released": "2022-04-29",
+  "commanders": [
+   "Perrie, the Pulverizer"
   ]
  },
  "blame-game-mkc": {
@@ -86,6 +118,22 @@
   "released": "2023-11-17",
   "commanders": [
    "Clavileño, First of the Blessed"
+  ]
+ },
+ "buckle-up-nec": {
+  "name": "Buckle Up",
+  "code": "NEC",
+  "released": "2022-02-18",
+  "commanders": [
+   "Kotori, Pilot Prodigy"
+  ]
+ },
+ "cabaretti-cacophony-ncc": {
+  "name": "Cabaretti Cacophony",
+  "code": "NCC",
+  "released": "2022-04-29",
+  "commanders": [
+   "Kitt Kanto, Mayhem Diva"
   ]
  },
  "call-for-backup-moc": {
@@ -150,6 +198,14 @@
   "released": "2025-08-01",
   "commanders": [
    "Inspirit, Flagship Vessel"
+  ]
+ },
+ "coven-counters-mic": {
+  "name": "Coven Counters",
+  "code": "MIC",
+  "released": "2021-09-24",
+  "commanders": [
+   "Leinore, Autumn Sovereign"
   ]
  },
  "creative-energy-collector-s-edition-m3c": {
@@ -248,6 +304,22 @@
    "Firkraag, Cunning Instigator"
   ]
  },
+ "draconic-rage-afc": {
+  "name": "Draconic Rage",
+  "code": "AFC",
+  "released": "2021-07-23",
+  "commanders": [
+   "Vrondiss, Rage of Ancients"
+  ]
+ },
+ "dungeons-of-death-afc": {
+  "name": "Dungeons of Death",
+  "code": "AFC",
+  "released": "2021-07-23",
+  "commanders": [
+   "Sefris of the Hidden Ways"
+  ]
+ },
  "eldrazi-incursion-collector-s-edition-m3c": {
   "name": "Eldrazi Incursion Collector's Edition",
   "code": "M3C",
@@ -280,6 +352,14 @@
    "Galadriel, Elven-Queen"
   ]
  },
+ "elven-empire-khc": {
+  "name": "Elven Empire",
+  "code": "KHC",
+  "released": "2021-02-05",
+  "commanders": [
+   "Lathril, Blade of the Elves"
+  ]
+ },
  "endless-punishment-dsc": {
   "name": "Endless Punishment",
   "code": "DSC",
@@ -294,6 +374,14 @@
   "released": "2023-08-04",
   "commanders": [
    "Anikthea, Hand of Erebos"
+  ]
+ },
+ "enhanced-evolution-c20": {
+  "name": "Enhanced Evolution",
+  "code": "C20",
+  "released": "2020-04-17",
+  "commanders": [
+   "Otrimi, the Ever-Playful"
   ]
  },
  "eternal-might-drc": {
@@ -342,6 +430,22 @@
   "released": "2024-08-02",
   "commanders": [
    "Zinnia, Valley's Voice"
+  ]
+ },
+ "federation-fleet-collector-s-edition-trc": {
+  "name": "Federation Fleet Collector's Edition",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Jean-Luc Picard, Luminary"
+  ]
+ },
+ "federation-fleet-trc": {
+  "name": "Federation Fleet",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Jean-Luc Picard, Luminary"
   ]
  },
  "first-flight-scd": {
@@ -449,6 +553,15 @@
    "Trostani, Selesnya's Voice"
   ]
  },
+ "heads-i-win-tails-you-lose-sld": {
+  "name": "Heads I Win, Tails You Lose",
+  "code": "SLD",
+  "released": "2022-04-22",
+  "commanders": [
+   "Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom",
+   "Okaun, Eye of Chaos // Okaun, Eye of Chaos"
+  ]
+ },
  "jeskai-striker-tdc": {
   "name": "Jeskai Striker",
   "code": "TDC",
@@ -471,6 +584,46 @@
   "released": "2026-10-02",
   "commanders": [
    "Sai, Master Thopterist"
+  ]
+ },
+ "klingon-fury-collector-s-edition-trc": {
+  "name": "Klingon Fury Collector's Edition",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Worf, Defiant Commander"
+  ]
+ },
+ "klingon-fury-trc": {
+  "name": "Klingon Fury",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Worf, Defiant Commander"
+  ]
+ },
+ "land-s-wrath-znc": {
+  "name": "Land's Wrath",
+  "code": "ZNC",
+  "released": "2020-09-25",
+  "commanders": [
+   "Obuun, Mul Daya Ancestor"
+  ]
+ },
+ "landing-party-collector-s-edition-trc": {
+  "name": "Landing Party Collector's Edition",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Commander Spock"
+  ]
+ },
+ "landing-party-trc": {
+  "name": "Landing Party",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "Commander Spock"
   ]
  },
  "legends-legacy-dmc": {
@@ -505,12 +658,28 @@
    "Saheeli, Radiant Creator"
   ]
  },
+ "lorehold-legacies-c21": {
+  "name": "Lorehold Legacies",
+  "code": "C21",
+  "released": "2021-04-23",
+  "commanders": [
+   "Osgir, the Reconstructor"
+  ]
+ },
  "lorehold-spirit-soc": {
   "name": "Lorehold Spirit",
   "code": "SOC",
   "released": "2026-04-24",
   "commanders": [
    "Quintorius, History Chaser"
+  ]
+ },
+ "maestros-massacre-ncc": {
+  "name": "Maestros Massacre",
+  "code": "NCC",
+  "released": "2022-04-29",
+  "commanders": [
+   "Anhelo, the Painter"
   ]
  },
  "mardu-surge-tdc": {
@@ -593,6 +762,14 @@
    "Szarekh, the Silent King"
   ]
  },
+ "obscura-operation-ncc": {
+  "name": "Obscura Operation",
+  "code": "NCC",
+  "released": "2022-04-29",
+  "commanders": [
+   "Kamiz, Obscura Oculus"
+  ]
+ },
  "odds-and-ends-sld": {
   "name": "Odds and Ends",
   "code": "SLD",
@@ -618,12 +795,36 @@
    "Yasmin Khan"
   ]
  },
+ "party-time-clb": {
+  "name": "Party Time",
+  "code": "CLB",
+  "released": "2022-06-10",
+  "commanders": [
+   "Nalia de'Arnise"
+  ]
+ },
  "peace-offering-blc": {
   "name": "Peace Offering",
   "code": "BLC",
   "released": "2024-08-02",
   "commanders": [
    "Ms. Bumbleflower"
+  ]
+ },
+ "phantom-premonition-khc": {
+  "name": "Phantom Premonition",
+  "code": "KHC",
+  "released": "2021-02-05",
+  "commanders": [
+   "Ranar the Ever-Watchful"
+  ]
+ },
+ "planar-portal-afc": {
+  "name": "Planar Portal",
+  "code": "AFC",
+  "released": "2021-07-23",
+  "commanders": [
+   "Prosper, Tome-Bound"
   ]
  },
  "planeswalker-party-cmm": {
@@ -642,12 +843,28 @@
    "Rootha, Mastering the Moment"
   ]
  },
+ "prismari-performance-c21": {
+  "name": "Prismari Performance",
+  "code": "C21",
+  "released": "2021-04-23",
+  "commanders": [
+   "Zaffai, Thunder Conductor"
+  ]
+ },
  "quandrix-unlimited-soc": {
   "name": "Quandrix Unlimited",
   "code": "SOC",
   "released": "2026-04-24",
   "commanders": [
    "Zimone, Infinite Analyst"
+  ]
+ },
+ "quantum-quandrix-c21": {
+  "name": "Quantum Quandrix",
+  "code": "C21",
+  "released": "2021-04-23",
+  "commanders": [
+   "Adrix and Nev, Twincasters"
   ]
  },
  "quick-draw-otc": {
@@ -664,6 +881,14 @@
   "released": "2024-01-22",
   "commanders": [
    "Rin and Seri, Inseparable // Rin and Seri, Inseparable"
+  ]
+ },
+ "reap-the-tides-cmr": {
+  "name": "Reap the Tides",
+  "code": "CMR",
+  "released": "2020-11-20",
+  "commanders": [
+   "Aesi, Tyrant of Gyre Strait"
   ]
  },
  "rebellion-rising-onc": {
@@ -714,6 +939,22 @@
    "Éowyn, Shieldmaiden"
   ]
  },
+ "riveteers-rampage-ncc": {
+  "name": "Riveteers Rampage",
+  "code": "NCC",
+  "released": "2022-04-29",
+  "commanders": [
+   "Henzie \"Toolbox\" Torre"
+  ]
+ },
+ "ruthless-regiment-c20": {
+  "name": "Ruthless Regiment",
+  "code": "C20",
+  "released": "2020-04-17",
+  "commanders": [
+   "Jirina Kudro"
+  ]
+ },
  "science-pip": {
   "name": "Science!",
   "code": "PIP",
@@ -754,12 +995,36 @@
    "Killian, Decisive Mentor"
   ]
  },
+ "silverquill-statement-c21": {
+  "name": "Silverquill Statement",
+  "code": "C21",
+  "released": "2021-04-23",
+  "commanders": [
+   "Breena, the Demagogue"
+  ]
+ },
  "sliver-swarm-cmm": {
   "name": "Sliver Swarm",
   "code": "CMM",
   "released": "2023-08-04",
   "commanders": [
    "Sliver Gravemother"
+  ]
+ },
+ "sneak-attack-znc": {
+  "name": "Sneak Attack",
+  "code": "ZNC",
+  "released": "2020-09-25",
+  "commanders": [
+   "Anowon, the Ruin Thief"
+  ]
+ },
+ "spirit-squadron-voc": {
+  "name": "Spirit Squadron",
+  "code": "VOC",
+  "released": "2021-11-19",
+  "commanders": [
+   "Millicent, Restless Revenant"
   ]
  },
  "squirreled-away-blc": {
@@ -776,6 +1041,14 @@
   "released": "2025-04-11",
   "commanders": [
    "Teval, the Balanced Scale"
+  ]
+ },
+ "symbiotic-swarm-c20": {
+  "name": "Symbiotic Swarm",
+  "code": "C20",
+  "released": "2020-04-17",
+  "commanders": [
+   "Kathril, Aspect Warper"
   ]
  },
  "temur-roar-tdc": {
@@ -899,12 +1172,36 @@
    "The Swarmlord"
   ]
  },
+ "undead-unleashed-mic": {
+  "name": "Undead Unleashed",
+  "code": "MIC",
+  "released": "2021-09-24",
+  "commanders": [
+   "Wilhelt, the Rotcleaver"
+  ]
+ },
+ "upgrades-unleashed-nec": {
+  "name": "Upgrades Unleashed",
+  "code": "NEC",
+  "released": "2022-02-18",
+  "commanders": [
+   "Chishiro, the Shattered Blade"
+  ]
+ },
  "urza-s-iron-alliance-brc": {
   "name": "Urza's Iron Alliance",
   "code": "BRC",
   "released": "2022-11-18",
   "commanders": [
    "Urza, Chief Artificer"
+  ]
+ },
+ "vampiric-bloodline-voc": {
+  "name": "Vampiric Bloodline",
+  "code": "VOC",
+  "released": "2021-11-19",
+  "commanders": [
+   "Strefan, Maurer Progenitor"
   ]
  },
  "veloci-ramp-tor-lcc": {
@@ -939,12 +1236,36 @@
    "T'Challa, the Black Panther"
   ]
  },
+ "we-are-the-borg-collector-s-edition-trc": {
+  "name": "We Are the Borg Collector's Edition",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "The Borg Queen"
+  ]
+ },
+ "we-are-the-borg-trc": {
+  "name": "We Are the Borg",
+  "code": "TRC",
+  "released": "2026-11-13",
+  "commanders": [
+   "The Borg Queen"
+  ]
+ },
  "witherbloom-pestilence-soc": {
   "name": "Witherbloom Pestilence",
   "code": "SOC",
   "released": "2026-04-24",
   "commanders": [
    "Dina, Essence Brewer"
+  ]
+ },
+ "witherbloom-witchcraft-c21": {
+  "name": "Witherbloom Witchcraft",
+  "code": "C21",
+  "released": "2021-04-23",
+  "commanders": [
+   "Willowdusk, Essence Seer"
   ]
  },
  "world-shaper-eoc": {

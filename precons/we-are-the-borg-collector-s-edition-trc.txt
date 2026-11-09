@@ -1,0 +1,100 @@
+# Stock del precon We Are the Borg Collector's Edition (TRC, 2026-11-13). Fuente: MTGJSON, bajado el 2026-11-09.
+# Generado automáticamente: contrástalo con tu caja antes de fiarte de una carta concreta.
+
+Commander
+1 The Borg Queen
+
+Deck
+1 Locutus of Borg
+1 Borg Incursion
+1 Emergency Regeneration
+1 Join the Collective
+1 Korok, Liberated Rage
+1 Maturation Chamber
+1 Stratagem Emulator
+1 Supplementation Node
+1 Type-03 Borg Vessel
+1 Ambulatory Reactor
+1 Borg Scout Sphere
+1 Co-Option Adjutant
+1 Gift of Perfection
+1 Optimization Annex
+1 Seven of Nine, Tertiary Adjunct
+1 Transwarp Hub
+1 Võx, Child of the Collective
+1 Assimilate the Wounded
+1 Assimilation Assessor
+1 Battle of Wolf 359
+1 Extraction Integrant
+1 Reclamation Specialist
+1 The Best of Both Worlds
+1 Collective Override
+1 Deliver from Chaos
+1 Hugh, First of Many
+1 Jurati, Cordial Queen
+1 One, Borg Evolved
+1 Class-4 Tactical Cube
+1 Queen's Diamond
+1 Reconnaissance Partition
+1 Shore Leave Planet
+1 Tempered Steel
+1 Disallow
+1 Toxic Deluge
+1 Anguished Unmaking
+1 Astral Cornucopia
+1 Darksteel Plate
+1 Door of Destinies
+1 Forsaken Monument
+1 The Immortal Sun
+1 Skullclamp
+1 Unwinding Clock
+1 Academy Ruins
+1 Choked Estuary
+1 Drowned Catacomb
+1 Eclipsed Steppe
+1 Exotic Orchard
+1 Fetid Pools
+1 Glacial Fortress
+1 Irrigated Farmland
+1 Isolated Chapel
+1 Morphic Pool
+1 Port Town
+1 Prairie Stream
+1 Shineshadow Snarl
+1 Skycloud Expanse
+1 Spire of Industry
+1 Sunken Hollow
+1 Umbral Expanse
+1 Underground River
+1 Command Subadjunct
+1 Conquest Mission
+1 Hive Mind Coprocessor
+1 Locutus, the One Who Speaks
+1 Dispatch
+1 Return to Dust
+1 Thirst for Knowledge
+1 Thoughtcast
+1 Bitter Triumph
+1 Arcane Signet
+1 Commander's Sphere
+1 Everflowing Chalice
+1 Sol Ring
+1 Stonespeaker Crystal
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Wayfarer's Bauble
+1 Arcane Sanctum
+1 Command Tower
+1 Contaminated Landscape
+1 Evolving Wilds
+1 Path of Ancestry
+1 Rogue's Passage
+1 Terramorphic Expanse
+2 Plains
+2 Plains
+2 Island
+2 Island
+2 Swamp
+2 Swamp

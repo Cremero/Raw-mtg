@@ -15,6 +15,14 @@
    "Felothar the Steadfast"
   ]
  },
+ "adaptive-enchantment-c18": {
+  "name": "Adaptive Enchantment",
+  "code": "C18",
+  "released": "2018-08-10",
+  "commanders": [
+   "Estrid, the Masked"
+  ]
+ },
  "ahoy-mateys-lcc": {
   "name": "Ahoy Mateys",
   "code": "LCC",
@@ -45,6 +53,14 @@
   "released": "2020-04-17",
   "commanders": [
    "Kalamax, the Stormsire"
+  ]
+ },
+ "arcane-wizardry-c17": {
+  "name": "Arcane Wizardry",
+  "code": "C17",
+  "released": "2017-08-25",
+  "commanders": [
+   "Inalla, Archmage Ritualist"
   ]
  },
  "arm-for-battle-cmr": {
@@ -120,12 +136,44 @@
    "Clavileño, First of the Blessed"
   ]
  },
+ "breed-lethality-c16": {
+  "name": "Breed Lethality",
+  "code": "C16",
+  "released": "2016-11-11",
+  "commanders": [
+   "Atraxa, Praetors' Voice"
+  ]
+ },
+ "breed-lethality-cm2": {
+  "name": "Breed Lethality",
+  "code": "CM2",
+  "released": "2018-06-08",
+  "commanders": [
+   "Atraxa, Praetors' Voice"
+  ]
+ },
  "buckle-up-nec": {
   "name": "Buckle Up",
   "code": "NEC",
   "released": "2022-02-18",
   "commanders": [
    "Kotori, Pilot Prodigy"
+  ]
+ },
+ "built-from-scratch-c14": {
+  "name": "Built From Scratch",
+  "code": "C14",
+  "released": "2014-11-07",
+  "commanders": [
+   "Daretti, Scrap Savant"
+  ]
+ },
+ "built-from-scratch-cm2": {
+  "name": "Built From Scratch",
+  "code": "CM2",
+  "released": "2018-06-08",
+  "commanders": [
+   "Daretti, Scrap Savant"
   ]
  },
  "cabaretti-cacophony-ncc": {
@@ -142,6 +190,14 @@
   "released": "2023-04-21",
   "commanders": [
    "Bright-Palm, Soul Awakener"
+  ]
+ },
+ "call-the-spirits-c15": {
+  "name": "Call the Spirits",
+  "code": "C15",
+  "released": "2015-11-13",
+  "commanders": [
+   "Daxos the Returned"
   ]
  },
  "calling-all-angels-fdc": {
@@ -264,6 +320,14 @@
    "Yuma, Proud Protector"
   ]
  },
+ "devour-for-power-cm2": {
+  "name": "Devour for Power",
+  "code": "CM2",
+  "released": "2018-06-08",
+  "commanders": [
+   "The Mimeoplasm"
+  ]
+ },
  "divine-convocation-moc": {
   "name": "Divine Convocation",
   "code": "MOC",
@@ -302,6 +366,14 @@
   "released": "2022-06-10",
   "commanders": [
    "Firkraag, Cunning Instigator"
+  ]
+ },
+ "draconic-domination-c17": {
+  "name": "Draconic Domination",
+  "code": "C17",
+  "released": "2017-08-25",
+  "commanders": [
+   "The Ur-Dragon"
   ]
  },
  "draconic-rage-afc": {
@@ -384,12 +456,44 @@
    "Otrimi, the Ever-Playful"
   ]
  },
+ "entropic-uprising-c16": {
+  "name": "Entropic Uprising",
+  "code": "C16",
+  "released": "2016-11-11",
+  "commanders": [
+   "Yidris, Maelstrom Wielder"
+  ]
+ },
+ "eternal-bargain-c13": {
+  "name": "Eternal Bargain",
+  "code": "C13",
+  "released": "2013-11-01",
+  "commanders": [
+   "Oloro, Ageless Ascetic"
+  ]
+ },
  "eternal-might-drc": {
   "name": "Eternal Might",
   "code": "DRC",
   "released": "2025-02-14",
   "commanders": [
    "Temmet, Naktamun's Will"
+  ]
+ },
+ "evasive-maneuvers-c13": {
+  "name": "Evasive Maneuvers",
+  "code": "C13",
+  "released": "2013-11-01",
+  "commanders": [
+   "Derevi, Empyrial Tactician"
+  ]
+ },
+ "evasive-maneuvers-cma": {
+  "name": "Evasive Maneuvers",
+  "code": "CMA",
+  "released": "2017-06-09",
+  "commanders": [
+   "Derevi, Empyrial Tactician"
   ]
  },
  "everyone-s-invited-sld": {
@@ -414,6 +518,22 @@
   "released": "2023-11-17",
   "commanders": [
    "Hakbal of the Surging Soul"
+  ]
+ },
+ "exquisite-invention-c18": {
+  "name": "Exquisite Invention",
+  "code": "C18",
+  "released": "2018-08-10",
+  "commanders": [
+   "Saheeli, the Gifted"
+  ]
+ },
+ "faceless-menace-c19": {
+  "name": "Faceless Menace",
+  "code": "C19",
+  "released": "2019-08-23",
+  "commanders": [
+   "Kadena, Slinking Sorcerer"
   ]
  },
  "fae-dominion-woc": {
@@ -448,6 +568,14 @@
    "Jean-Luc Picard, Luminary"
   ]
  },
+ "feline-ferocity-c17": {
+  "name": "Feline Ferocity",
+  "code": "C17",
+  "released": "2017-08-25",
+  "commanders": [
+   "Arahbo, Roar of the World"
+  ]
+ },
  "first-flight-scd": {
   "name": "First Flight",
   "code": "SCD",
@@ -479,6 +607,14 @@
   "released": "2022-10-07",
   "commanders": [
    "Inquisitor Greyfax"
+  ]
+ },
+ "forged-in-stone-c14": {
+  "name": "Forged In Stone",
+  "code": "C14",
+  "released": "2014-11-07",
+  "commanders": [
+   "Nahiri, the Lithomancer"
   ]
  },
  "from-cute-to-brute-sld": {
@@ -537,6 +673,22 @@
    "Brimaz, Blight of Oreskos"
   ]
  },
+ "guided-by-nature-c14": {
+  "name": "Guided By Nature",
+  "code": "C14",
+  "released": "2014-11-07",
+  "commanders": [
+   "Freyalise, Llanowar's Fury"
+  ]
+ },
+ "guided-by-nature-cma": {
+  "name": "Guided by Nature",
+  "code": "CMA",
+  "released": "2017-06-09",
+  "commanders": [
+   "Freyalise, Llanowar's Fury"
+  ]
+ },
  "hail-caesar-pip": {
   "name": "Hail, Caesar",
   "code": "PIP",
@@ -560,6 +712,22 @@
   "commanders": [
    "Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom",
    "Okaun, Eye of Chaos // Okaun, Eye of Chaos"
+  ]
+ },
+ "heavenly-inferno-cma": {
+  "name": "Heavenly Inferno",
+  "code": "CMA",
+  "released": "2017-06-09",
+  "commanders": [
+   "Kaalia of the Vast"
+  ]
+ },
+ "invent-superiority-c16": {
+  "name": "Invent Superiority",
+  "code": "C16",
+  "released": "2016-11-11",
+  "commanders": [
+   "Breya, Etherium Shaper"
   ]
  },
  "jeskai-striker-tdc": {
@@ -698,12 +866,28 @@
    "Davros, Dalek Creator"
   ]
  },
+ "merciless-rage-c19": {
+  "name": "Merciless Rage",
+  "code": "C19",
+  "released": "2019-08-23",
+  "commanders": [
+   "Anje Falkenrath"
+  ]
+ },
  "mind-flayarrrs-clb": {
   "name": "Mind Flayarrrs",
   "code": "CLB",
   "released": "2022-06-10",
   "commanders": [
    "Captain N'ghathrod"
+  ]
+ },
+ "mind-seize-c13": {
+  "name": "Mind Seize",
+  "code": "C13",
+  "released": "2013-11-01",
+  "commanders": [
+   "Jeleva, Nephalia's Scourge"
   ]
  },
  "miracle-worker-dsc": {
@@ -746,6 +930,30 @@
    "The Wise Mothman"
   ]
  },
+ "mystic-intellect-c19": {
+  "name": "Mystic Intellect",
+  "code": "C19",
+  "released": "2019-08-23",
+  "commanders": [
+   "Sevinne, the Chronoclasm"
+  ]
+ },
+ "nature-of-the-beast-c13": {
+  "name": "Nature of the Beast",
+  "code": "C13",
+  "released": "2013-11-01",
+  "commanders": [
+   "Marath, Will of the Wild"
+  ]
+ },
+ "nature-s-vengeance-c18": {
+  "name": "Nature's Vengeance",
+  "code": "C18",
+  "released": "2018-08-10",
+  "commanders": [
+   "Lord Windgrace"
+  ]
+ },
  "necron-dynasties-40k": {
   "name": "Necron Dynasties",
   "code": "40K",
@@ -776,6 +984,14 @@
   "released": "2026-09-28",
   "commanders": [
    "Yennett, Cryptic Sovereign"
+  ]
+ },
+ "open-hostility-c16": {
+  "name": "Open Hostility",
+  "code": "C16",
+  "released": "2016-11-11",
+  "commanders": [
+   "Saskia the Unyielding"
   ]
  },
  "painbow-dmc": {
@@ -811,6 +1027,14 @@
    "Ms. Bumbleflower"
   ]
  },
+ "peer-through-time-c14": {
+  "name": "Peer Through Time",
+  "code": "C14",
+  "released": "2014-11-07",
+  "commanders": [
+   "Teferi, Temporal Archmage"
+  ]
+ },
  "phantom-premonition-khc": {
   "name": "Phantom Premonition",
   "code": "KHC",
@@ -833,6 +1057,30 @@
   "released": "2023-08-04",
   "commanders": [
    "Commodore Guff"
+  ]
+ },
+ "plunder-the-graves-c15": {
+  "name": "Plunder the Graves",
+  "code": "C15",
+  "released": "2015-11-13",
+  "commanders": [
+   "Meren of Clan Nel Toth"
+  ]
+ },
+ "plunder-the-graves-cma": {
+  "name": "Plunder the Graves",
+  "code": "CMA",
+  "released": "2017-06-09",
+  "commanders": [
+   "Meren of Clan Nel Toth"
+  ]
+ },
+ "primal-genesis-c19": {
+  "name": "Primal Genesis",
+  "code": "C19",
+  "released": "2019-08-23",
+  "commanders": [
+   "Ghired, Conclave Exile"
   ]
  },
  "prismari-artistry-soc": {
@@ -987,6 +1235,14 @@
    "Dogmeat, Ever Loyal"
   ]
  },
+ "seize-control-c15": {
+  "name": "Seize Control",
+  "code": "C15",
+  "released": "2015-11-13",
+  "commanders": [
+   "Mizzix of the Izmagnus"
+  ]
+ },
  "silverquill-influence-soc": {
   "name": "Silverquill Influence",
   "code": "SOC",
@@ -1035,12 +1291,44 @@
    "Hazel of the Rootbloom"
   ]
  },
+ "stalwart-unity-c16": {
+  "name": "Stalwart Unity",
+  "code": "C16",
+  "released": "2016-11-11",
+  "commanders": [
+   "Kynaios and Tiro of Meletis"
+  ]
+ },
+ "subjective-reality-c18": {
+  "name": "Subjective Reality",
+  "code": "C18",
+  "released": "2018-08-10",
+  "commanders": [
+   "Aminatou, the Fateshifter"
+  ]
+ },
  "sultai-arisen-tdc": {
   "name": "Sultai Arisen",
   "code": "TDC",
   "released": "2025-04-11",
   "commanders": [
    "Teval, the Balanced Scale"
+  ]
+ },
+ "swell-the-host-c15": {
+  "name": "Swell the Host",
+  "code": "C15",
+  "released": "2015-11-13",
+  "commanders": [
+   "Ezuri, Claw of Progress"
+  ]
+ },
+ "sworn-to-darkness-c14": {
+  "name": "Sworn To Darkness",
+  "code": "C14",
+  "released": "2014-11-07",
+  "commanders": [
+   "Ob Nixilis of the Black Oath"
   ]
  },
  "symbiotic-swarm-c20": {
@@ -1097,6 +1385,14 @@
   "released": "2022-10-07",
   "commanders": [
    "Abaddon the Despoiler"
+  ]
+ },
+ "timeless-wisdom-c20": {
+  "name": "Timeless Wisdom",
+  "code": "C20",
+  "released": "2020-04-17",
+  "commanders": [
+   "Gavi, Nest Warden"
   ]
  },
  "timey-wimey-who": {
@@ -1204,6 +1500,14 @@
    "Strefan, Maurer Progenitor"
   ]
  },
+ "vampiric-bloodlust-c17": {
+  "name": "Vampiric Bloodlust",
+  "code": "C17",
+  "released": "2017-08-25",
+  "commanders": [
+   "Edgar Markov"
+  ]
+ },
  "veloci-ramp-tor-lcc": {
   "name": "Veloci-Ramp-Tor",
   "code": "LCC",
@@ -1218,6 +1522,22 @@
   "released": "2023-09-08",
   "commanders": [
    "Ellivere of the Wild Court"
+  ]
+ },
+ "wade-into-battle-c15": {
+  "name": "Wade into Battle",
+  "code": "C15",
+  "released": "2015-11-13",
+  "commanders": [
+   "Kalemne, Disciple of Iroas"
+  ]
+ },
+ "wade-into-battle-cm2": {
+  "name": "Wade into Battle",
+  "code": "CM2",
+  "released": "2018-06-08",
+  "commanders": [
+   "Kalemne, Disciple of Iroas"
   ]
  },
  "wakanda-forever-collector-s-edition-msc": {

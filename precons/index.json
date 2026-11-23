@@ -256,6 +256,14 @@
    "Inspirit, Flagship Vessel"
   ]
  },
+ "counterpunch-cmd": {
+  "name": "Counterpunch",
+  "code": "CMD",
+  "released": "2011-06-17",
+  "commanders": [
+   "Ghave, Guru of Spores"
+  ]
+ },
  "coven-counters-mic": {
   "name": "Coven Counters",
   "code": "MIC",
@@ -324,6 +332,14 @@
   "name": "Devour for Power",
   "code": "CM2",
   "released": "2018-06-08",
+  "commanders": [
+   "The Mimeoplasm"
+  ]
+ },
+ "devour-for-power-cmd": {
+  "name": "Devour for Power",
+  "code": "CMD",
+  "released": "2011-06-17",
   "commanders": [
    "The Mimeoplasm"
   ]
@@ -722,6 +738,14 @@
    "Kaalia of the Vast"
   ]
  },
+ "heavenly-inferno-cmd": {
+  "name": "Heavenly Inferno",
+  "code": "CMD",
+  "released": "2011-06-17",
+  "commanders": [
+   "Kaalia of the Vast"
+  ]
+ },
  "invent-superiority-c16": {
   "name": "Invent Superiority",
   "code": "C16",
@@ -896,6 +920,14 @@
   "released": "2024-09-27",
   "commanders": [
    "Aminatou, Veil Piercer"
+  ]
+ },
+ "mirror-mastery-cmd": {
+  "name": "Mirror Mastery",
+  "code": "CMD",
+  "released": "2011-06-17",
+  "commanders": [
+   "Riku of Two Reflections"
   ]
  },
  "mishra-s-burnished-banner-brc": {
@@ -1073,6 +1105,22 @@
   "released": "2017-06-09",
   "commanders": [
    "Meren of Clan Nel Toth"
+  ]
+ },
+ "political-puppets-cmd": {
+  "name": "Political Puppets",
+  "code": "CMD",
+  "released": "2011-06-17",
+  "commanders": [
+   "Zedruu the Greathearted"
+  ]
+ },
+ "power-hungry-c13": {
+  "name": "Power Hungry",
+  "code": "C13",
+  "released": "2013-11-01",
+  "commanders": [
+   "Prossh, Skyraider of Kher"
   ]
  },
  "primal-genesis-c19": {
